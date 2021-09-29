@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Akshay",
+      "subheader": "ak",
+     "percent" : 70
+    },
+    {
+        "title": "Salman",
+        "subheader": "sk",
+       "percent" : 85
+      },
+      {
+        "title": "Shahruk",
+        "subheader": "srk",
+       "percent" : 35
+      }
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
