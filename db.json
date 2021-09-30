@@ -1,15 +1,6 @@
 {
   "agentinfo": [
-    {
-      "title": "Akshay",
-      "subheader": "ak",
-     "percent" : 70
-    },
-    {
-        "title": "Salman",
-        "subheader": "sk",
-       "percent" : 85
-      },
+    
       {
         "title": "Shahruk",
         "subheader": "srk",
@@ -21,6 +12,18 @@
        "percent" : 62
       }
 ],
+  "agentinfo": [
+    {
+      "title": "Akshay",
+      "subheader": "ak",
+     "percent" : 70
+    },
+    {
+        "title": "Salman",
+        "subheader": "sk",
+       "percent" : 85
+      },
+  
   "profile": {
     "name": "typicode"
   }
