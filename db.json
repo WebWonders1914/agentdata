@@ -11,8 +11,7 @@
         "subheader": "amk",
        "percent" : 62
       }
-],
-  "agentinfo": [
+    "agentinfo": [
     {
       "title": "Akshay",
       "subheader": "ak",
@@ -23,7 +22,9 @@
         "subheader": "sk",
        "percent" : 85
       }
-    ],
+    ]
+],
+  
   "profile": {
     "name": "typicode"
   }
