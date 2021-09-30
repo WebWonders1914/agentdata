@@ -7,22 +7,13 @@
         "title": "Salmann",
         "subheader": "sk",
        "percent" : 85
-      }
-  
-],
-  
-  "profile": {
-    "name": "typicode"
-  }
-}
-{
-  "agentinfo": [
-    
-      {"index":0,
+      },
+    {"index":0,
         "title": "Shahruk",
         "subheader": "srk",
        "percent" : 35
       }
+  
 ],
   
   "profile": {
